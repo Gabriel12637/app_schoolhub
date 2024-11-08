@@ -5,3 +5,4 @@ crearemos una app para programar clases virtuales para un mayor aprendizajes aca
 # diceño de interfas
 https://www.figma.com/design/MPNsS8eSWAwa9igibCjiYw/Untitled?node-id=0-1&m=dev&t=dklHctesp0QxTPQ6-1
 g
+
